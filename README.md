@@ -89,8 +89,8 @@ The Kaggle dataset (`rice-type-classification/`) is downloaded at runtime and is
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Tech-Watt/rice-classification-pytorch.git
-cd rice-classification-pytorch
+git clone https://github.com/Tech-Watt/Rice-Classification-Pytorch.git
+cd Rice-Classification-Pytorch
 ```
 
 ### 2. Create a virtual environment (recommended)
